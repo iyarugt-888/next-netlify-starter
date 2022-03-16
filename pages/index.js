@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Logged IP" />
         <p className="description">
           Logged IP Address to file<code>pages/index.js</code>
         </p>
